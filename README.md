@@ -26,13 +26,19 @@
 **Real-time login monitoring in browser**
 - Streamlit + auto-refresh
 - Flags anomalies in red
-- [Run Locally](login_monitor.py) | (https://cyber-data-portfolio-bdbkzldteorspcyiydttoe.streamlit.app/)
+- [Run Locally](login_monitor.py) | [LIVE APP](https://cyber-data-portfolio-bdbkzldteorspcyiydttoe.streamlit.app/)
 
 ### 5. **Auto-Email Security Alerter**
 **Sends SMTP email when anomalies detected**
 - Uses Gmail/Outlook (app password)
 - Attaches alert table
 - [View Code](email_alerter.py)
+
+### 6. **Real-Time Threat Intel Dashboard** *(LIVE)*
+**Live IOCs → Risk Scoring → Auto-Email Alerts via Gmail**
+- Python + Streamlit + Pandas + SMTP
+- [Code](threat_intel_dashboard.py)
+- [LIVE DEMO](https://mnvbnj-cyber-dashboard.streamlit.app)
 
 ---
 
