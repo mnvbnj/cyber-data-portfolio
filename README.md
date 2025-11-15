@@ -34,7 +34,7 @@
 - Attaches alert table
 - [View Code](email_alerter.py)
 
-### 6. **Real-Time Threat Intel Dashboard** *(LIVE)*
+### 6. **Real-Time Threat Intel Dashboard** *(Deployed)*
 **Live IOCs → Risk Scoring → Auto-Email Alerts via Gmail**
 - Python + Streamlit + Pandas + SMTP
 - [Code](threat_intel_dashboard.py)
