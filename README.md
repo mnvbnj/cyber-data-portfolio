@@ -38,7 +38,7 @@
 **Live IOCs → Risk Scoring → Auto-Email Alerts via Gmail**
 - Python + Streamlit + Pandas + SMTP
 - [Code](threat_intel_dashboard.py)
-- [LIVE DEMO](https://mnvbnj-cyber-dashboard.streamlit.app)
+- [LIVE DEMO](https://mnvbnj-cyber-data-portfolio-threat-intel-dashboard-yfdiy0.streamlit.app/)
 
 ---
 
